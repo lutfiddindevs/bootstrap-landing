@@ -1,0 +1,28 @@
+.navbar-brand {
+	font-family: serif;
+	font-weight: bold;
+}
+.lead {
+	font-family: cursive;
+	color: #ff4500;
+}
+h1 {
+	color: #ff6347;
+}
+.fa-code {
+	color: orange;
+}
+.fa-css3 {
+	color: blue;
+}
+.fa-js {
+	color: red;
+}
+.img-fluid {
+	width: 700px;
+	height: 300px;
+}
+.display-1 {
+	color: red;
+	font-family: fantasy;
+}
